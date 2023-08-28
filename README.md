@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about creating engaging and user-fr
 
 💞️ I’m looking to collaborate on: Exciting projects that involve creative UI/UX design and innovative web development. If you have an idea or project in mind, feel free to reach out!
 
-📫 How to reach me: You can connect with me through my email muralivijay53ms@gmail.com or find me on LinkedIn to discuss potential collaborations, share ideas, or just have a friendly chat.
+📫 How to reach me: You can connect with me through my email muralivijay53ms@gmail.com.
 
 Feel free to explore my repositories and projects. Your feedback is valuable to me as I continue to learn and grow in the field of front-end development. Let's build captivating web experiences together! 🚀
 
