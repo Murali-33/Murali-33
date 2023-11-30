@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **BFSI**
 
-- 🌱 I’m currently learning **Advanced JavaScript ,React & Node js**
+- 🌱 I’m currently learning **React,Redux & Springboot**
 
 - 👯 I’m looking to collaborate on **Frontend projects**
 
