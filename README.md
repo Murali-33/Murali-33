@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Frontend projects**
 
-- 💬 Ask me about **avaScript , React js, Redux ,Angular 8+,npm ,Javascript**
+- 💬 Ask me about **JavaScript , React js, Redux ,Angular 8+,npm ,Javascript**
 
 - 📫 How to reach me **muralivijay3324@gmail.com**
 
