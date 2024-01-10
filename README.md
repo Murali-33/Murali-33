@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **BFSI**
 
-- 🌱 I’m currently learning **React,Redux & Springboot**
+- 🌱 I’m currently learning **Springboot**
 
 - 👯 I’m looking to collaborate on **Frontend projects**
 
-- 💬 Ask me about **JavaScript , Angular,npm ,Javascript**
+- 💬 Ask me about **JavaScript , React js, Redux ,Angular 8+,npm ,Javascript**
 
 - 📫 How to reach me **muralivijay53ms@gmail.com**
 
