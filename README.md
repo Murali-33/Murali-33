@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Murali</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🔭 I’m currently working on [Amazon Clone](https://clone2-ae665.web.app/)
-
 - 🌱 I’m currently learning **Java ,SpringBoot**
 
 - 💬 Ask me about **JavaScript , React js, Redux ,Front-end developement**
